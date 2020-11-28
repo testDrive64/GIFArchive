@@ -1,14 +1,14 @@
-##Information
+## Information
 This Projekt is a Web based Video Archiver. It is a study projject to realize good Database communication.
 The main topic in this project will be to save the video directly on the databse server. 
 
 ---
 
-##Software to use
+## Software to use
 PHP (Apache)
 MySql
 
-##Software to plan
+## Software to plan
 Slack
 Jira
 Bitbucket
@@ -16,7 +16,7 @@ GithHub
 
 ---
 
-##Resume
+## Resume
 
 The start work prety well. I should write everything in german instead in english. The project dokumentation should be german for the teacher.
 
@@ -27,7 +27,7 @@ The start work prety well. I should write everything in german instead in englis
 ##Information
 Diese Projekt ist ein Mini Video Archivierer, welcher die Video Daten direkt auf dem Datenserver in einem Blob Datentyp speichert.
 
-##Software
+## oftware
 PHP (Apache)
 MySql
 
@@ -42,4 +42,4 @@ GithHub
 ##Resume
 
 Der Start hat sehr sauber angefangen.
-Haupt Aufzeichnungstool wird Slack sein. Von hier aus kann ich daten in Evernote Jira und GitHub in einem Tool pflegen. Alles andere wird √ºber VSCode gemacht.
+Haupt Aufzeichnungstool wird Slack sein. Von hier aus kann ich daten in Evernote Jira und GitHub in einem Tool pflegen. Alles andere wird Åber VSCode gemacht.
