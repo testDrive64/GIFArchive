@@ -27,11 +27,11 @@ The start work prety well. I should write everything in german instead in englis
 ##Information
 Diese Projekt ist ein Mini Video Archivierer, welcher die Video Daten direkt auf dem Datenserver in einem Blob Datentyp speichert.
 
-## oftware
+## Software
 PHP (Apache)
 MySql
 
-##Planungs Software
+## Planungs Software
 Slack
 Jira
 Bitbucket
@@ -39,7 +39,7 @@ GithHub
 
 ---
 
-##Resume
+## Resume
 
 Der Start hat sehr sauber angefangen.
 Haupt Aufzeichnungstool wird Slack sein. Von hier aus kann ich daten in Evernote Jira und GitHub in einem Tool pflegen. Alles andere wird Åber VSCode gemacht.
