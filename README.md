@@ -24,7 +24,8 @@ The start work prety well. I should write everything in german instead in englis
 ---
 
 **German**
-##Information
+
+## Information
 Diese Projekt ist ein Mini Video Archivierer, welcher die Video Daten direkt auf dem Datenserver in einem Blob Datentyp speichert.
 
 ## Software
@@ -42,4 +43,4 @@ GithHub
 ## Resume
 
 Der Start hat sehr sauber angefangen.
-Haupt Aufzeichnungstool wird Slack sein. Von hier aus kann ich daten in Evernote Jira und GitHub in einem Tool pflegen. Alles andere wird Åber VSCode gemacht.
+Haupt Aufzeichnungstool wird Slack sein. Von hier aus kann ich daten in Evernote Jira und GitHub in einem Tool pflegen. Alles andere wird ¬Åber VSCode gemacht.
