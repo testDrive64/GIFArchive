@@ -36,7 +36,7 @@ MySql
 Slack
 Jira
 Bitbucket
-GithHub
+GitHub
 
 ---
 
