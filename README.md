@@ -42,4 +42,4 @@ GitHub
 
 ## Resume
 
-Haupt Aufzeichnungstool wird Slack sein. Von hier aus kann ich daten in Evernote Jira und GitHub in einem Tool pflegen. Alles andere wird von VSCode erledigt.
+Das Aufzeichnungstool wird Slack sein, von hier aus werden Daten in Evernote Jira und GitHub in einem Tool pflegen. Alles andere wird von VSCode erledigt.
