@@ -1,6 +1,6 @@
 ## Information
-This Projekt is a Web based Video Archiver. It is a study projject to realize good Database communication.
-The main topic in this project will be to save the video directly on the databse server. 
+This Projekt is a Web based Video Archiver. It is a study project the goal is to have a MySQL Server, where you can save short Videos in a BLOB.
+GUI, to have a nice way to edit the video Archive. There will be a User interface.
 
 ---
 
@@ -16,30 +16,3 @@ GithHub
 
 ---
 
-## Resume
-
-The start work prety well. I should write everything in german instead in english. The project dokumentation should be german for the teacher.
-
----
----
-
-**German**
-
-## Information
-Diese Projekt ist ein Mini Video Archivierer, welcher die Video Daten direkt auf dem Datenserver in einem Blob Datentyp speichert.
-
-## Software
-PHP (Apache)
-MySql
-
-## Planungs Software
-Slack
-Jira
-Bitbucket
-GitHub
-
----
-
-## Resume
-
-Das Aufzeichnungstool wird Slack sein, von hier aus werden Daten in Evernote Jira und GitHub in einem Tool pflegen. Alles andere wird von VSCode erledigt.
